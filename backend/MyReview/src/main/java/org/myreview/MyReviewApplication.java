@@ -1,13 +1,13 @@
-package org.myreviewonline;
+package org.myreview;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyReviewOnlineApplication {
+public class MyReviewApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyReviewOnlineApplication.class, args);
+		SpringApplication.run(MyReviewApplication.class, args);
 	}
 
 }
