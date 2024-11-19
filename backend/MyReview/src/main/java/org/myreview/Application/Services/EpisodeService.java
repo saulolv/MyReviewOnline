@@ -1,7 +1,7 @@
 package org.myreview.Application.Services;
 
 import org.myreview.Domain.Entities.Episode;
-import org.myreview.Domain.Repositories.EpisodeRepository;
+import org.myreview.Infra.Repositories.EpisodeRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

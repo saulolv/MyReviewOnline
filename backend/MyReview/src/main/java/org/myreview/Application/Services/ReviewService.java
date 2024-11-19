@@ -1,7 +1,7 @@
 package org.myreview.Application.Services;
 
 import org.myreview.Domain.Entities.Review;
-import org.myreview.Domain.Repositories.ReviewRepository;
+import org.myreview.Infra.Repositories.ReviewRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
